@@ -10,7 +10,7 @@ int main()
         if(A%i==0)
         {
             printf("%d",i);
-
+            printf("\n");
         }
     }
     return 0;
@@ -54,7 +54,7 @@ int main()
     int K,M;
     scanf("%d%d",&K,&M);
 
-    printf("%d",M%K);
+    printf("%d",K%M);
     return 0;
 }
 ```
