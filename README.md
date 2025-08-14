@@ -16,7 +16,7 @@ int main()
     return 0;
 }
 ```
-solution number 2 :
+solution number 3:
 ```c
 #include<stdio.h>
 int main()
